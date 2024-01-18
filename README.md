@@ -1,1 +1,1 @@
-# Course_Design_Patterns_cpp
+# Course: Design Patterns in Modern C++
