@@ -6,6 +6,8 @@
 
 Factory method.
 
+Factory method pool.
+
 
 ## SOLID Principles: v1.0.0
 
