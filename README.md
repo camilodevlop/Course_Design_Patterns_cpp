@@ -8,6 +8,12 @@ Factory method.
 
 Factory method pool.
 
+Abstract factory.
+
+Builder method.
+
+Prototype method (normal, registry, factory, static)
+
 
 ## SOLID Principles: v1.0.0
 
