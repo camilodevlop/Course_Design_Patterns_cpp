@@ -2,7 +2,17 @@
 
 ## Creational Design Petterns: v2.0.0
 
+### Factories: v2.1.0
 
+Factory method.
+
+Factory method pool.
+
+Abstract factory.
+
+Builder method.
+
+Prototype method (normal, registry, factory, static)
 
 
 ## SOLID Principles: v1.0.0
