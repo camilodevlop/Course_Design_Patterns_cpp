@@ -12,7 +12,9 @@ Abstract factory.
 
 Builder method.
 
-Prototype method (normal, registry, factory, static)
+Prototype method (normal, registry, factory, static).
+
+Singleton method (normail, prototype).
 
 
 ## SOLID Principles: v1.0.0
