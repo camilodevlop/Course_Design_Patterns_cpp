@@ -2,6 +2,7 @@
 
 ## Structural Design Patterns: v3.0.0
 
+
 ### Structural v3.1.0
 
 Adapter method (normal, reusing classes)
