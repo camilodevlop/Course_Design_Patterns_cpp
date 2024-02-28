@@ -2,6 +2,9 @@
 
 ## Structural Design Patterns: v3.0.0
 
+### Bridge v3.2.0
+
+Bridge method (normal, abstract factory)
 
 ### Structural v3.1.0
 
