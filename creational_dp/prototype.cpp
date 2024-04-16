@@ -1,5 +1,5 @@
 // Created by Camilo Castillo on 13/02/2024
-// Protorype Pattern: Furniture (Client)
+// Prototype Pattern
 
 #include <iostream>
 #include <memory>
@@ -13,7 +13,6 @@ class Shape
         virtual void draw() const = 0;
         virtual ~Shape() = default;
 };
-
 
 //------------------------------------------------------------------------------
 
@@ -58,6 +57,5 @@ int main()
 
     return 0;
 }
-
 
 //------------------------------------------------------------------------------

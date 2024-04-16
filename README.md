@@ -2,6 +2,10 @@
 
 ## Structural Design Patterns: v3.0.0
 
+### Composite v3.3.0
+
+Composite method (normal, composite-builder)
+
 ### Bridge v3.2.0
 
 Bridge method (normal, abstract factory)
@@ -11,7 +15,7 @@ Bridge method (normal, abstract factory)
 Adapter method (normal, reusing classes)
 
 
-## Creational Design Petterns: v2.0.0
+# Creational Design Petterns: v2.0.0
 
 ### Factories: v2.1.0
 
