@@ -2,6 +2,10 @@
 
 ## Structural Design Patterns: v3.0.0
 
+### Decorator v3.4.0
+
+Decorator method (normal, decorator-composite)
+
 ### Composite v3.3.0
 
 Composite method (normal, composite-builder)
