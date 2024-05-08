@@ -1,5 +1,5 @@
-// Created by Camilo Castillo on 30/04/2024
-// Decorator Pattern: Decorator Facade
+// Created by Camilo Castillo on 08/05/2024
+// Decorator Pattern: Decorator Facade Singleton
 
 #include <iostream>
 #include <memory>
@@ -74,11 +74,15 @@ class MPEG4CompressionCodec
 
 //------------------------------------------------------------------------------
 
-class VideoConverter
+class VideoConverterSingleton
 {
     public:
-        VideoConverter() = default;
-        
+        static VideoConverterSingleton& instance()
+        {
+            static VideoConverterSingleton instance;
+            return instance;
+        }
+
         std::unique_ptr<VideoFile> convert(std::string&& filename, std::string&& format)
         {
             std::unique_ptr<VideoFile> videoFileConverted = std::make_unique<VideoFile>(filename);
@@ -98,14 +102,19 @@ class VideoConverter
             return videoFileConverted;
         }
 
-        ~VideoConverter() = default;
+        ~VideoConverterSingleton() = default;
+
+    private:
+        VideoConverterSingleton() = default;
+        VideoConverterSingleton(const VideoConverterSingleton&) = delete;
+        VideoConverterSingleton& operator=(const VideoConverterSingleton&) = delete;
 };
 
 //------------------------------------------------------------------------------
 
 int main()
 {
-    VideoConverter videoConverter;
+    VideoConverterSingleton& videoConverter = VideoConverterSingleton::instance();
     std::unique_ptr<VideoFile> videoFile = videoConverter.convert("video.mp4", "ogg");
 
     std::cout << "Video file: " << videoFile->fileName() 
