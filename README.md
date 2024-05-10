@@ -2,6 +2,10 @@
 
 ## Structural Design Patterns: v3.0.0
 
+### Facade v3.5.0
+
+Facade method (normal, facade-singleton).
+
 ### Decorator v3.4.0
 
 Decorator method (normal, decorator-composite)
