@@ -1,5 +1,5 @@
 // Created by Camilo Castillo on 08/05/2024
-// Decorator Pattern: Decorator Facade Singleton
+// Facade Pattern: Facade Singleton
 
 #include <iostream>
 #include <memory>
