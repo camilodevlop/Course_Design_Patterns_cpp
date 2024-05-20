@@ -2,6 +2,10 @@
 
 ## Structural Design Patterns: v3.0.0
 
+### Flyweight v3.6.0
+
+Flyweight method (normal)
+
 ### Facade v3.5.0
 
 Facade method (normal, facade-singleton)
