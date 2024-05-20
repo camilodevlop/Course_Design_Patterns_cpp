@@ -1,5 +1,5 @@
 // Created by Camilo Castillo on 30/04/2024
-// Decorator Pattern: Decorator Facade
+// Facade Pattern
 
 #include <iostream>
 #include <memory>
