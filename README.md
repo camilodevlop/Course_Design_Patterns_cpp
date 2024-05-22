@@ -2,6 +2,10 @@
 
 ## Structural Design Patterns: v3.0.0
 
+### Proxy v3.7.0
+
+Proxy method (caching proxy)
+
 ### Flyweight v3.6.0
 
 Flyweight method (normal)
