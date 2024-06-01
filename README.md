@@ -1,5 +1,7 @@
 # Course: Design Patterns in Modern C++
 
+## Behavioral Design Patterns: v4.0.0
+
 ## Structural Design Patterns: v3.0.0
 
 ### Proxy v3.7.0
