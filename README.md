@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Chain of Responsibility v3.8.0 (I made a mistake in the version number)
+
+Chain of Responsibility method (normal, chain of responsibility-factories).
+
 ## Structural Design Patterns: v3.0.0
 
 ### Proxy v3.7.0
