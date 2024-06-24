@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Command v4.1.0
+
+Command method (normal).
+
 ### Chain of Responsibility v3.8.0 (I made a mistake in the version number)
 
 Chain of Responsibility method (normal, chain of responsibility-factories).
