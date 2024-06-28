@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Iterator v4.2.0
+
+Iterator method (normal).
+
 ### Command v4.1.0
 
 Command method (normal).
