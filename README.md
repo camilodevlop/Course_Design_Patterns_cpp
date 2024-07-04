@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Mediator v4.3.0
+
+Mediator method (normal).
+
 ### Iterator v4.2.0
 
 Iterator method (normal).
