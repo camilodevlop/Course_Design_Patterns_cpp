@@ -2,9 +2,13 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Observer v4.5.0
+
+Observer method (normal, tamplates).
+
 ### Memento v4.4.0
 
-Memento method (normal)
+Memento method (normal).
 
 ### Mediator v4.3.0
 
