@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### State v4.6.0
+
+State method (normal).
+
 ### Observer v4.5.0
 
 Observer method (normal, tamplates).
