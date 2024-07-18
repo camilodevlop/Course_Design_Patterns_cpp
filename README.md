@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Strategy v4.7.0
+
+Strategy method (normal).
+
 ### State v4.6.0
 
 State method (normal).
