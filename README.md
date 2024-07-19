@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Template Method v4.8.0
+
+Template method (normal).
+
 ### Strategy v4.7.0
 
 Strategy method (normal).
