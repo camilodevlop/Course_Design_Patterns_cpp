@@ -2,6 +2,10 @@
 
 ## Behavioral Design Patterns: v4.0.0
 
+### Visitor v4.9.0
+
+Visitor method (composite).
+
 ### Template Method v4.8.0
 
 Template method (normal).
