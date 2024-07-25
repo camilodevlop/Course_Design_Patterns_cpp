@@ -1,5 +1,7 @@
 # Course: Design Patterns in Modern C++
 
+This repository contains the code for the course `Design Patterns in Modern C++` on Udemy.
+
 ## Behavioral Design Patterns: v4.0.0
 
 ### Visitor v4.9.0
